@@ -1,0 +1,6 @@
+Hello World! 
+Welcome to Git World
+First - Update 07/21/2024
+
+
+Now this file is tracked, and ready to commit
